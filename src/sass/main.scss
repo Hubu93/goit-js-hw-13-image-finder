@@ -94,8 +94,10 @@ li {
 }
 
 .stats {
+  height: 20px;
   display: flex;
   justify-content: space-evenly;
+  align-items: center;
 }
 
 .photo-card {
