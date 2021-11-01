@@ -1,9 +1,9 @@
-$pink: #DC143C;
+$pink: #dc143c;
 $white: #f6f4f3;
-$dark: #008B8B;
-$silk: #FFF8DC;
-$violet: #9932CC;
-$khaki: #BDB76B;
+$dark: #008b8b;
+$silk: #fff8dc;
+$violet: #9932cc;
+$khaki: #bdb76b;
 
 html {
   box-sizing: border-box;
@@ -16,7 +16,6 @@ html {
 }
 
 body {
-  
   font-size: 20px;
   background-color: $silk;
 }
@@ -31,7 +30,6 @@ img {
   display: flex;
   justify-content: center;
   padding: 25px;
-  font-family: 'Festive', cursive;
   font-size: 40px;
   font-weight: 700;
 }
